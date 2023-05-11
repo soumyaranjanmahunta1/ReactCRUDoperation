@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "countryName": "India",
+      "cityName": "Cuttack",
+      "population": "5454454",
+      "id": 1
+    },
+    {
+      "countryName": "India",
+      "cityName": "Puri",
+      "population": "36568461",
+      "id": 2
+    }
+  ],
+  "countries": [
+    {
+      "countryName": "india",
+      "id": 3
+    },
+    {
+      "countryName": "Pakistan",
+      "id": 4
+    },
+    {
+      "countryName": "Japan",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
